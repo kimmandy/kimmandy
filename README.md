@@ -89,7 +89,7 @@
 
 ### 📫 Contact
 
-[![Email](https://img.shields.io/badge/kmjicontact@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:kmjicontact@naver.com)
+[![Email](https://img.shields.io/badge/kimmandy.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimmandy.dev@gmail.com)
 
 <!-- More links you could add later:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
