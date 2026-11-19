@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=200&section=header&text=Welcome%20World!&fontSize=82&animation=scaleIn)
 
-<h1 align="center">Hi 👋, I'm KIM MYOUNG JI</h1>
+<h1 align="center">Hi 👋, I'm KIM MYEONG JI</h1>
 <p align="center"><b>Robotics & computer vision engineer</b> · camera-based tracking · ROS 2 · NVIDIA Jetson</p>
 <p align="center"><b>로봇·컴퓨터 비전 엔지니어</b> · 카메라 기반 추적 · ROS 2 · NVIDIA Jetson</p>
 
